@@ -16,7 +16,7 @@ This project is currently under development. I am creating a simplified version 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Language:** &nbsp; ![Static Badge](https://img.shields.io/badge/%20%20-%20?logo=Python&logoColor=%23d6d2d1&color=grey)
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Technologies:** &nbsp; [![Static Badge](https://img.shields.io/badge/uv%20-%20?style=flat&logo=UV&logoColor=%23d6d2d1&labelColor=grey&color=%23d6d2d1)](https://docs.astral.sh/uv/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Technologies:** &nbsp; [![Static Badge](https://img.shields.io/badge/uv%20-%20?style=flat&logo=UV&logoColor=%23d6d2d1&labelColor=grey&color=%23d6d2d1)](https://docs.astral.sh/uv/) &nbsp; [![Static Badge](https://img.shields.io/badge/pydantic%20-%20?style=flat&logo=Pydantic&logoColor=%23d6d2d1&labelColor=grey&color=%23d6d2d2)](https://pydantic.dev/docs/validation/latest/get-started/)
 
 ---
 
