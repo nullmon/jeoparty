@@ -1,10 +1,12 @@
 [project]
 name = "jeoparty"
 version = "0.1.0"
-description = "Add your description here"
+description = "A shortened version of jeopardy"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "pydantic>=2.14.1",
+]
 
 [project.scripts]
 jeoparty = "jeoparty:main"
